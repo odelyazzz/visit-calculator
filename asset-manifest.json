@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visit-calculator/static/css/main.4ed89e24.css",
+    "main.js": "/visit-calculator/static/js/main.009f6086.js",
+    "static/js/453.d832c36a.chunk.js": "/visit-calculator/static/js/453.d832c36a.chunk.js",
+    "index.html": "/visit-calculator/index.html",
+    "main.4ed89e24.css.map": "/visit-calculator/static/css/main.4ed89e24.css.map",
+    "main.009f6086.js.map": "/visit-calculator/static/js/main.009f6086.js.map",
+    "453.d832c36a.chunk.js.map": "/visit-calculator/static/js/453.d832c36a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed89e24.css",
+    "static/js/main.009f6086.js"
+  ]
+}
