@@ -1,0 +1,50 @@
+.calculator {
+    width: 220px;
+    margin: 100px auto;
+    text-align: center;
+    background-color: rgba(215, 215, 215, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.display {
+    font-size: 32px;
+    padding: 10px;
+    background: #222;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.buttons button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    background: #f0f0f0;
+    border: none;
+    cursor: pointer;
+}
+
+.buttons button:hover {
+    background: #ddd;
+}
+
+.quadratic input {
+    width: 50px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+.quadratic button {
+    width: 120px;
+    margin-top: 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.quadratic button:hover {
+    background-color: #45a049;
+}

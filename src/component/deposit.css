@@ -1,0 +1,30 @@
+.main {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #e2e2e2;
+}
+
+.label {
+    margin: 10px;
+    display: block;
+}
+
+.input {
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
